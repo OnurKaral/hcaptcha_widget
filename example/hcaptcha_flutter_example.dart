@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'hCaptcha Flutter Demo',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
@@ -35,7 +35,7 @@ class MyHomePage extends StatelessWidget {
           MaterialPageRoute(
               builder: (context) {
                 return HCaptchaWidget(
-                  siteKeyUrl: 'https://YOUR-DOMAIN.com/hCaptchaflutter.html',
+                  siteKeyUrl: 'https://YOUR-DOMAIN.com/hCaptcha-flutter.html',
                   onTokenReceived: (token) {
                     if (token != null) {
                       // Use the token here (e.g., send it to your backend)
