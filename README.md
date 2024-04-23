@@ -10,7 +10,7 @@ To use the HCaptchaWidget, add the following dependency to your pubspec.yaml fil
 
 ```yaml
 dependencies:
-  hcaptcha_widget: ^0.0.4
+  hcaptcha_widget: ^0.0.5
 ```
 or
 

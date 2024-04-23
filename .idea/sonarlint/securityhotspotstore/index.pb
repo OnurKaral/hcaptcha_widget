@@ -19,3 +19,13 @@ U
 CHANGELOG.md,a/b/ab09011fa121d0a2bb9fa4ca76094f2482b902b7
 C
 example/datsad.dart,6/b/6b3674f9d67b4b6cd95ee2e2573c2f6ed12b708e
+M
+.flutter-plugins-dependencies,c/3/c35774685cffc620de767cda8fa01675e8685378
+Q
+!lib/src/hcaptcha_widget_base.dart,e/e/ee7470ef4f62252d986506ce17546c14baadefc1
+H
+lib/hcaptcha_widget.dart,6/b/6b4d3255059c334beb1d2221235297b1b8309719
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
