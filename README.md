@@ -10,12 +10,12 @@ To use the HCaptchaWidget, add the following dependency to your pubspec.yaml fil
 
 ```yaml
 dependencies:
-  hcaptcha_flutter: ^0.0.2
+  hcaptcha_widget: ^0.0.4
 ```
 or
 
 ```
-flutter pub add hcaptcha_flutter
+flutter pub add hcaptcha_widget
 ```
 
 Create a static HTML page on your server that contains your hCaptcha sitekey.

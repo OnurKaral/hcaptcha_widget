@@ -1,6 +1,6 @@
-name: hcaptcha_flutter
-description: A starting point for Dart libraries or applications.
-version: 0.0.2
+name: hcaptcha_widget
+description: A Flutter widget that displays an HCaptcha challenge and returns the token to the caller.
+version: 0.0.4
 homepage: https://github.com/OnurKaral/hcaptcha_flutter
 repository: https://github.com/OnurKaral/hcaptcha_flutter
 

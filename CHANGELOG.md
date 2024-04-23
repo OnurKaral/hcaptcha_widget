@@ -1,4 +1,4 @@
-## 0.0.2 (2024-04-23)
+## 0.0.4 (2024-04-23)
 
 - Initial version.
 - A Flutter widget that allows you to integrate the hCaptcha service into your application.

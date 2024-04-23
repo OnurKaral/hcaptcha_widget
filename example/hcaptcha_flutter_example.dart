@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hcaptcha_flutter/hcaptcha_flutter.dart';
+import 'package:hcaptcha_widget/src/hcaptcha_widget_base.dart';
 
 void main() async {
   runApp(const MyApp());
